@@ -1,10 +1,10 @@
-# 📉 Lower RAM Usage on Realme C3 (RMX2020)
+# Lower RAM Usage on Realme C3 (RMX2020)
 
 This Magisk module optimizes Android's heap memory configuration to **reduce RAM usage** and improve **overall performance** on the **Realme C3 (RMX2020)**. It applies systemless tweaks that help with **smoother multitasking** and **better gaming experience**, especially on devices with limited memory.
 
 ---
 
-## 🔧 What Does It Do?
+## What Does It Do?
 
 This module adjusts three key Android memory settings:
 
@@ -16,7 +16,7 @@ These values are fine-tuned to limit excessive memory usage without breaking app
 
 ---
 
-## 📱 Compatibility
+## Compatibility
 
 - **Device:** Realme C3 (RMX2020)
 - **Android Version:** Tested on Android 10 & 11
@@ -25,7 +25,7 @@ These values are fine-tuned to limit excessive memory usage without breaking app
 
 ---
 
-## 🧩 Systemless Installation
+## Systemless Installation
 
 This is a **systemless** Magisk module, meaning:
 - It does **not modify your actual system partition**
@@ -33,7 +33,7 @@ This is a **systemless** Magisk module, meaning:
 
 ---
 
-## 📦 How to Install
+## How to Install
 
 1. Download the `.zip` from the [Releases](https://github.com/fnskye/lower-ram-usage-realme-c3/releases) section
 2. Open the **Magisk app**
@@ -47,7 +47,7 @@ This is a **systemless** Magisk module, meaning:
 
 > ⚠️ Use at your own risk.  
 > This module modifies low-level memory management behavior and may not be suitable for all devices or ROMs.  
-> I am **not responsible** for any bootloops, performance issues, or data loss. Always make a backup before flashing anything.
+> I am **NOT responsible** for any bootloops, performance issues, or data loss. Always make a backup before flashing anything.
 
 ---
 
